@@ -1,0 +1,5 @@
+node_modules/
+token.json
+.env
+client_secret_*.json
+.antigravitycli/
